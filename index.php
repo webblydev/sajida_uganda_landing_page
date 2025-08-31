@@ -35,7 +35,7 @@
                 <h2>Impact You Want to Explore</h2>
                 <div class="btns">
                     
-                    <a href="https://sajida-uganda.webblysolutions.com/" class="btn health-btn">Foundation</a>
+                    <a href="http://206.189.150.251/foundation/public/" class="btn health-btn">Foundation</a>
                     <a href="" class="btn disabled microfinance-btn">Microfinance</a>
                 </div>
             </div>
