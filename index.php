@@ -35,8 +35,8 @@
                 <h2>Impact You Want to Explore</h2>
                 <div class="btns">
                     
-                    <a href="http://sajidauganda.org/foundation" class="btn health-btn">Foundation</a>
-                    <a href="" class="btn disabled microfinance-btn">Microfinance</a>
+                    <a href="https://sajidauganda.org/foundation" class="btn health-btn">Foundation</a>
+                    <a href="https://sajidauganda.org/microfinance" class="btn disabled microfinance-btn">Microfinance</a>
                 </div>
             </div>
 
