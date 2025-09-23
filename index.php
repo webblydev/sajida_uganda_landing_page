@@ -36,7 +36,7 @@
                 <div class="btns">
                     
                     <a href="https://sajidauganda.org/foundation" class="btn health-btn">Foundation</a>
-                    <a href="https://sajidauganda.org/microfinance" class="btn disabled microfinance-btn">Microfinance</a>
+                    <a href="https://sajidauganda.org/microfinance" class="btn microfinance-btn">Microfinance</a>
                 </div>
             </div>
 
