@@ -36,9 +36,9 @@
                 <!-- <img src="assets/img/Rectangle 21.png" alt=""> -->
                 <h2>Impact You Want to Explore</h2>
                 <div class="btns">
-                    
-                    <a href="https://sajidauganda.org/foundation" class="btn health-btn">Foundation</a>
-                    <a href="https://sajidauganda.org/microfinance" class="btn microfinance-btn">Microfinance</a>
+
+                    <a href="https://sajidauganda.org/foundation" class="btn health-btn" target="_blank">Foundation</a>
+                    <a href="https://sajidauganda.org/microfinance" class="btn microfinance-btn" target="_blank">Microfinance</a>
                 </div>
             </div>
 
