@@ -15,7 +15,7 @@
 
 
     <link rel="icon" href="assets/favicon.ico" />
-    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="assets/sajida_icons.svg" type="image/svg+xml" />
 
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
